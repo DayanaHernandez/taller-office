@@ -1,0 +1,23 @@
+.opciones{
+    width:435px;
+    display: flex;
+    margin-left: -40px;
+    margin-top: 70px;
+    background-color: white;
+}
+button{
+    width:435px;
+}
+.llave{
+    width: 32px;
+    height: 32px;
+    margin-left: 40px;
+    padding-top:10px ;
+}
+.texto{
+    font-family:Arial, Helvetica, sans-serif ;
+    color: #3c3b3b;
+    font-size: 15px;
+    margin-left: 12px;
+    padding: 2px;
+}
